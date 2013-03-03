@@ -6,6 +6,10 @@ Pour plus de précisions,
 
 "GeoNoteApp" est l'EntrepriseApplication finale, elle nécessite les deux parties précédemment citées.
 
+"WebHTMLdev_app" contient les interfaces codées en HTML
+
+"Reports_Folder" est le répertoire contenant les rapports suivants: Le rapport commun Middlewares/WebServices et le rapport IHM
+
 Bien à vous,
 
 Dalila ZAHRAOUI & David BURIAN
