@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/conf/persistence.xml</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/jpa/Geotripentity.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/jpa/Geonotesentity.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/ejb/GeonotesentityFacade.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/ejb/GeonotesentityFacadeLocal.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/dao/DaoJpa.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/dao/Idao.java</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/src/java/configuration/jndi.properties</file>
+        <file>file:/Y:/Yassine/Documents/NetBeansProjects/Final/EJBModule1/setup/glassfish-resources.xml</file>
+    </open-files>
+</project-private>
